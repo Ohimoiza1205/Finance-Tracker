@@ -59,8 +59,8 @@ The application uses an SQLite database to store all financial transactions. It 
 - **``id (INTEGER)``**: Primary key for each transaction.
 - **``date (TEXT)``**: Date of the transaction.
 - **``description (TEXT)``**: Description of the transaction.
-- **``amount (REAL)**``: Amount of money involved in the transaction.
-- **``category (TEXT)**``: Category of the transaction (e.g., Food, Rent, Entertainment).
+- **``amount (REAL)``**: Amount of money involved in the transaction.
+- **``category (TEXT)``**: Category of the transaction (e.g., Food, Rent, Entertainment).
 
 ## Contributions
 Contributions are welcome! If you'd like to contribute to the project, follow the steps below:
